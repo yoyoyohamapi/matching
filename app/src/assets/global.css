@@ -1,0 +1,32 @@
+.card {
+    box-shadow: 0 3px 8px 0 rgba(0,0,0,0.2), 0 0 0 1px rgba(0,0,0,0.08);
+}
+
+.hidden {
+    display: none;
+}
+
+.button {
+    padding: 5px 10px;
+    border: 1px solid rgba(204, 204, 204, 0.5);
+    text-align: center;
+}
+
+.button:hover {
+    cursor: pointer;
+}
+
+.button-large {
+    padding: 10px 20px;
+    font-size: 18px;
+}
+
+.panel {
+    display: -webkit-flex;
+    -webkit-flex-direction: row;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0 auto;
+    align-items: center;
+}

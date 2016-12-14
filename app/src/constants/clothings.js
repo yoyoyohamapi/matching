@@ -1,0 +1,53 @@
+module.exports = [{
+    image: 'http://img10.static.yhbimg.com/goodsimg/2016/11/03/12/01805d39f09a76551f5bd3191c8201aa6f.jpg?imageMogr2/thumbnail/210x280/extent/210x280/background/d2hpdGU=/position/center/quality/90',
+    title: '羽绒服',
+    value: '羽绒服'
+}, {
+    image: '',
+    title: '棉衣',
+    value: '棉衣'
+}, {
+    image: '',
+    title: '大衣/风衣',
+    value: '大衣/风衣'
+}, {
+    image: '',
+    title: '防风外套',
+    value: '防风外套'
+}, {
+    image: '',
+    title: '夹克',
+    value: '夹克'
+}, {
+    image: '',
+    title: '毛衣/针织',
+    value: '毛衣/针织'
+}, {
+    image: '',
+    title: '卫衣',
+    value: '卫衣'
+}, {
+    image: '',
+    title: '皮衣',
+    value: '皮衣'
+}, {
+    image: '',
+    title: '衬衫',
+    value: '衬衫'
+}, {
+    image: '',
+    title: 'T恤',
+    value: 'T恤'
+}, {
+    image: '',
+    title: 'POLO',
+    value: 'POLO'
+}, {
+    image: '',
+    title: '背心',
+    value: '背心'
+}, {
+    image: '',
+    title: '套装',
+    value: '套装'
+}];
