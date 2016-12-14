@@ -17,13 +17,13 @@
 
 该情境图像质量较高，衣物为摄影主题，背景单纯：
 
-![纯净情境](assets/clothing_pure_situation.png)
+![纯净情境](assets/clothing_pure_situation.jpg)
 
 ### 模特情境（Model Situation）
 
 该情境除衣物外，还含有模特，以及黏着有一部分下装，在分割的时候需要考虑去除**人脸**，**手臂**，**黏着的下装**：
 
-![模特情境](assets/clothing_model_situation.png)
+![模特情境](assets/clothing_model_situation.jpg)
 
 下装情境
 --------
@@ -32,10 +32,10 @@
 
 该情境图像质量较高，衣物为摄影主题，背景单纯：
 
-![纯净情境](assets/pants_pure_situation.png)
+![纯净情境](assets/pants_pure_situation.jpg)
 
 ### 模特情境（Model Situation）
 
 该情境除衣物外，还含有模特，以及黏着有一部分上装，鞋子。在分割的时候需要考虑去除**黏着上装**，**鞋子**：
 
-![模特情境](assets/pants_model_situation.png)
+![模特情境](assets/pants_model_situation.jpg)
