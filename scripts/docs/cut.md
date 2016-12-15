@@ -142,17 +142,13 @@
 
 再排除掉断开部分：
 
-![去轮廓](assets/flow_clothing_42.jpg)
+![去轮廓](assets/flow_clothing_43_before.jpg)
 
 直接使用该掩膜操作原图像，得到的分割图像会黏着有一定的背景边缘:
 
-![边缘黏着](assets/flow_clothing_43_before.jpg)
+![边缘黏着](assets/flow_clothing_border.jpg)
 
-所以我们还需要对掩膜进行一定的腐蚀：
-
-![消除边缘黏着](assets/flow_clothing_43_after.jpg)
-
-最终形成的分割图像如下图所示：
+因此，考虑对掩膜进行一定的腐蚀，最终形成的分割图像如下图所示：
 
 ![pure分割结果](assets/flow_clothing_end_model.jpg)
 
@@ -166,4 +162,4 @@
 
 ### 下装分割流程
 
-![下装分割流程](assets/flow_pants.png)
+> 未完待续
