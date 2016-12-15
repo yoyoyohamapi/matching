@@ -8,7 +8,7 @@ def scan(rootDir):
     # 文件名正则
     filePattern = re.compile("^[a-zA-Z0-9]+$")
     # 上衣文件名正则
-    clothingPattern = re.compile(".*上衣")
+    clothingPattern = re.compile(".*clothing")
     clothingCount = 0
     pantsCount = 0
     for dp, dn, fs in os.walk(rootDir):
@@ -28,7 +28,7 @@ def scan(rootDir):
                 print '---->'
                 print '%s is cutting'%srcPath
                 image = cv2.imread(srcPath)
-                mask, cutImage = cut(image, isClothing, dp, filename)
+                mask, cutImage = cut(image, isClothing, dp, filename, isDebug = True)
                 cv2.imwrite(cutPath, cutImage)
                 cv2.imwrite(maskPath, mask)
                 print '<----'
@@ -37,5 +37,5 @@ def scan(rootDir):
     print '----------pants:     %d ----------'%pantsCount
 
 if __name__ == "__main__":
-    rootDir = '../images'
+    rootDir = '../doc_images'
     scan(rootDir)
