@@ -79,7 +79,7 @@
 
 通过该掩膜操纵原图像形成的分割图像如下：
 
-![分割后图像](assetes/flow_clothing_end_pure.jpg)
+![分割后图像](assetes/flow_clothing_border.jpg)
 
 **模特情境（Model Situation）**
 
