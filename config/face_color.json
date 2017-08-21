@@ -1,0 +1,7 @@
+{
+    "cold_white": ["#FFFFFF", "#F4F2F5", "#EBEBEB"],
+    "red_white": ["#F8EEEB", "#E4B9A6", "#F1BFBA"],
+    "wheat": ["#D17C3B", "#BA6944", "#BC9762"],
+    "yellow": ["#EBD985", "#E0D293", "#DFC17B"],
+    "black": ["#503C35", "#7B4C2E"]
+}

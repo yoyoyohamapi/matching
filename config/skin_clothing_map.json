@@ -1,0 +1,1082 @@
+{
+    "#cccc00": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#666699": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#003366": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#009900": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#333366": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#990033": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#0099ff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#ff0033": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#99ffff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#663333": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#66ff66": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#9999ff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#cc0000": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#33ff99": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#009999": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#ff99cc": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#ffff99": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#669933": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#6600cc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#330099": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#000066": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#ff6633": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#3333cc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#3300cc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#cc0033": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#3333ff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#00ffff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#0000cc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#000000": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#00ff99": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#cc3366": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#33cc99": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#33ff00": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#ffffff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#cc0066": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#6666cc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#99ff99": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#66cc00": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#663399": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#666633": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#ccff99": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#ff3300": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#999966": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#333399": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#9966cc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#9900ff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#330066": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#33ffcc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#cc33cc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#990099": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#00ff66": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#000033": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#006699": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#00cc33": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#66ff99": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#996633": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#00ff00": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#ccff00": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#990000": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#ff6699": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#33cc66": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#ffcc00": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#0000ff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#00ccff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#006666": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#336633": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#cc3399": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#99cc66": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#000099": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#ffcc66": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#ff6666": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#ff66cc": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#99ff00": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#330033": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#33cc33": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#99cc00": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#66cc33": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#336699": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#3366ff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#ff6600": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#cc3300": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#66ccff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#66cc99": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#cc00ff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#333333": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#339933": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#9933cc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#0099cc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#6666ff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#33ff66": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#996666": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#cc6633": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#993366": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#339999": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#006633": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#3399ff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#cc9933": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#996699": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#cc00cc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#99cc33": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#993300": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#cc9999": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#666600": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#cc66ff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#660000": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#cc6699": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#660099": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#3366cc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#6699cc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#00cc66": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#66ffcc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#339966": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#999900": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#cc3333": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#669999": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#003333": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#ffccff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#ff3399": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#3399cc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#660066": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#cc33ff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#ff00ff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#6699ff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#993399": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#3300ff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#006600": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#ffffcc": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#9966ff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#6633cc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#66cccc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#993333": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#00cc99": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#009933": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#0033ff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#ff0066": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#33ccff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#99ff66": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#99ffcc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#009966": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#00cc00": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#cc9966": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#6633ff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#990066": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#ccffcc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#ffcc33": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#333300": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#cc99ff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#cc99cc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#66ff00": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#99ccff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#999933": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#003399": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#663366": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#ffff66": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#ccffff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#669900": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#ffcccc": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#ff3333": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#0033cc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#336666": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#ffff00": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#cc6666": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#33ff33": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#cccc99": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#66cc66": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#666666": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#ff3366": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#33cccc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#33cc00": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#99cccc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#996600": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#ff33ff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#ff66ff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#33ffff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#339900": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#ff0099": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#cccc66": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#9933ff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#ff9966": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#ff00cc": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#9900cc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#cc6600": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#66ffff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#cc0099": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#ff9900": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#0066cc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#ff9999": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#00ffcc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#ccccff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#0066ff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#ffff33": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#6600ff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#ccff33": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#9999cc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#ccff66": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#ff0000": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#660033": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#cccccc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#ff33cc": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#cc66cc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#cccc33": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#663300": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#330000": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#00ff33": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#cc9900": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#999999": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#00cccc": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#99cc99": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#336600": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#99ff33": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#669966": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#ff9933": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#003300": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    },
+    "#ffcc99": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#66ff33": {
+        "isCold": 0,
+        "fit": [],
+        "unfit": []
+    },
+    "#ff99ff": {
+        "isCold": 1,
+        "fit": [],
+        "unfit": []
+    }
+}

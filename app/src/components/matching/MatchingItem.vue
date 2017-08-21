@@ -1,30 +1,13 @@
 <template>
-    <div class="matching">
-        <!-- 上装 -->
-        <div class="clothing item">
-            <!-- 图片 -->
-            <div class="img">
-                <img :src="matching.clothing.image"></img>
-            </div>
-            <!-- 直达链接 -->
-            <div class="to">
-                <a :href="matching.clothing.url">直达链接</a>
-            </div>
-        </div>
-        <!-- 下装 -->
-        <div class="pants item">
-            <div class="img">
-                <img :src="matching.pants.image"></img>
-            </div>
-            <div class="to">
-                <a :href="matching.pants.url">直达链接</a>
-            </div>
-        </div>
-        <!-- 匹配分数 -->
-        <div class="score">
-            <h2>{{matching.score}}</h2>
-        </div>
+<div class="matching">
+    <!-- 上装 -->
+    <div class="clothing item" v-for="clothing in matching">
+        <!-- 图片 -->
+        <a class="img" target="_blank" :href="clothing.url">
+            <img :src="clothing.image"></img>
+        </a>
     </div>
+</div>
 </template>
 
 <script>
@@ -43,8 +26,8 @@ export default {
     padding: 5px;
 }
 
-.matching > .item {
-    width: 80px;
+.matching>.item {
+    width: 100px;
     margin-right: 10px;
     border: 1px solid #eee;
     display: -webkit-flex;
@@ -52,7 +35,8 @@ export default {
     flex-direction: column;
 }
 
-.matching > .item img{
-    width: 80px;
+.matching>.item img {
+    display: block;
+    width: 100%;
 }
 </style>

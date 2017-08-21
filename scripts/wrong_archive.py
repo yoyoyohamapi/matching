@@ -4,20 +4,26 @@ import csv
 import time
 import sys
 import re
+from optparse import OptionParser
 
-csvName = sys.argv[1]
+parser = OptionParser()
+parser.add_option("-c", "--csv", dest="csv", help="csv file")
 
 def copyFile(source, target):
-    print source
     open(target, "wb").write(open(source, "rb").read())
 
 if __name__ == "__main__":
+    (options, args) = parser.parse_args()
+    csvName = options.csv
+    if not os.path.exists(csvName):
+        print "csv not exists!"
+        sys.exit(0)
     clothingPattern = re.compile(".*上衣")
     # 每次生成新的错误文件目录
     rootDir = '../images_%s'%csvName.split('.')[0]
     # 构建clothings及pants目录
-    clothingDir = '%s/clothings'%rootDir
-    pantsDir = '%s/pants'%rootDir
+    clothingDir = '%s/上衣'%rootDir
+    pantsDir = '%s/裤装'%rootDir
     if not os.path.exists(rootDir):
         os.makedirs(clothingDir)
         os.makedirs(pantsDir)

@@ -1,0 +1,25 @@
+{
+  "scripts": {
+    "start": "pm2 start process.yml --no-daemon",
+    "lint": "jshint .",
+    "validate": "npm ls"
+  },
+  "dependencies": {
+    "co": "^4.6.0",
+    "co-exec": "^1.1.0",
+    "koa": "^1.2.4",
+    "koa-body": "^1.6.0",
+    "koa-router": "~5",
+    "koa-static": "^2.0.0",
+    "lodash": "^4.17.4",
+    "promised-mongo": "^1.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.6.0",
+    "eslint-config-standard": "^6.0.1",
+    "eslint-plugin-promise": "^2.0.1",
+    "eslint-plugin-standard": "^2.0.0",
+    "precommit-hook": "^3.0.0"
+  },
+  "pre-commit": []
+}

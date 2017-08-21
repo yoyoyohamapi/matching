@@ -1,0 +1,1514 @@
+{
+    "#cccc00": {
+        "isCold": 0,
+        "belongs": "yellow",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "black"]
+    },
+    "#666699": {
+        "isCold": 1,
+        "belongs": "purple",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow"]
+    },
+    "#003366": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#009900": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": ["wheat"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#333366": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#990033": {
+        "isCold": 0,
+        "belongs": "red",
+        "isLight": 1,
+        "unfit": [],
+        "fit": []
+    },
+    "#0099ff": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#ff0033": {
+        "isCold": 0,
+        "belongs": "red",
+        "isLight": 1,
+        "unfit": [],
+        "fit": []
+    },
+    "#99ffff": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 0,
+        "unfit": ["black"],
+        "fit": ["cold_white"]
+    },
+    "#663333": {
+        "isCold": 0,
+        "belongs": "brown",
+        "isLight": 1,
+        "unfit": ["yellow", "wheat"],
+        "fit": []
+    },
+    "#66ff66": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": ["wheat"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#9999ff": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#cc0000": {
+        "isCold": 0,
+        "belongs": "red",
+        "isLight": 1,
+        "unfit": [],
+        "fit": []
+    },
+    "#33ff99": {
+        "isCold": 1,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#009999": {
+        "isCold": 1,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#ff99cc": {
+        "isCold": 0,
+        "belongs": "pink",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["black"]
+    },
+    "#ffff99": {
+        "isCold": 0,
+        "belongs": "yellow",
+        "isLight": 0,
+        "unfit": ["wheat"],
+        "fit": ["cold_white"]
+    },
+    "#669933": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": ["wheat"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#6600cc": {
+        "isCold": 1,
+        "belongs": "purple",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow"]
+    },
+    "#330099": {
+        "isCold": 1,
+        "belongs": "purple",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow"]
+    },
+    "#000066": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#ff6633": {
+        "isCold": 0,
+        "belongs": "orange",
+        "isLight": 1,
+        "unfit": ["yellow"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#3333cc": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#3300cc": {
+        "isCold": 1,
+        "belongs": "purple",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow"]
+    },
+    "#cc0033": {
+        "isCold": 0,
+        "belongs": "red",
+        "isLight": 1,
+        "unfit": [],
+        "fit": []
+    },
+    "#3333ff": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#00ffff": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#0000cc": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#000000": {
+        "isCold": 0,
+        "belongs": "black",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["black"]
+    },
+    "#00ff99": {
+        "isCold": 1,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#cc3366": {
+        "isCold": 0,
+        "belongs": "pink",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["black"]
+    },
+    "#33cc99": {
+        "isCold": 1,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#33ff00": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": ["wheat"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#ffffff": {
+        "isCold": 0,
+        "belongs": "white",
+        "isLight": 0,
+        "unfit": [],
+        "fit": ["black"]
+    },
+    "#cc0066": {
+        "isCold": 0,
+        "belongs": "pink",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["black"]
+    },
+    "#6666cc": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#99ff99": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 0,
+        "unfit": ["wheat"],
+        "fit": []
+    },
+    "#66cc00": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": ["wheat"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#663399": {
+        "isCold": 1,
+        "belongs": "purple",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow"]
+    },
+    "#666633": {
+        "isCold": 0,
+        "belongs": "brown",
+        "isLight": 1,
+        "unfit": ["yellow", "wheat"],
+        "fit": []
+    },
+    "#ccff99": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 0,
+        "unfit": ["wheat"],
+        "fit": []
+    },
+    "#ff3300": {
+        "isCold": 0,
+        "belongs": "red",
+        "isLight": 1,
+        "unfit": [],
+        "fit": []
+    },
+    "#999966": {
+        "isCold": 0,
+        "belongs": "brown",
+        "isLight": 1,
+        "unfit": ["yellow", "wheat"],
+        "fit": []
+    },
+    "#333399": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#9966cc": {
+        "isCold": 1,
+        "belongs": "purple",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow"]
+    },
+    "#9900ff": {
+        "isCold": 1,
+        "belongs": "purple",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow"]
+    },
+    "#330066": {
+        "isCold": 1,
+        "belongs": "purple",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow"]
+    },
+    "#33ffcc": {
+        "isCold": 1,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#cc33cc": {
+        "isCold": 0,
+        "belongs": "purple",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow"]
+    },
+    "#990099": {
+        "isCold": 0,
+        "belongs": "purple",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow"]
+    },
+    "#00ff66": {
+        "isCold": 1,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#000033": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#006699": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#00cc33": {
+        "isCold": 1,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#66ff99": {
+        "isCold": 1,
+        "belongs": "green",
+        "isLight": 0,
+        "unfit": ["cold_white"],
+        "fit": []
+    },
+    "#996633": {
+        "isCold": 0,
+        "belongs": "brown",
+        "isLight": 1,
+        "unfit": ["yellow", "wheat"],
+        "fit": []
+    },
+    "#00ff00": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": ["wheat"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#ccff00": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 0,
+        "unfit": ["wheat"],
+        "fit": []
+    },
+    "#990000": {
+        "isCold": 0,
+        "belongs": "red",
+        "isLight": 1,
+        "unfit": [],
+        "fit": []
+    },
+    "#ff6699": {
+        "isCold": 0,
+        "belongs": "pink",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["black"]
+    },
+    "#33cc66": {
+        "isCold": 1,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#ffcc00": {
+        "isCold": 0,
+        "belongs": "yellow",
+        "isLight": 0,
+        "unfit": ["wheat"],
+        "fit": ["cold_white"]
+    },
+    "#0000ff": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#00ccff": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#006666": {
+        "isCold": 1,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#336633": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": ["wheat"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#cc3399": {
+        "isCold": 0,
+        "belongs": "pink",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["black"]
+    },
+    "#99cc66": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": ["wheat"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#000099": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#ffcc66": {
+        "isCold": 0,
+        "belongs": "yellow",
+        "isLight": 0,
+        "unfit": ["wheat"],
+        "fit": ["cold_white"]
+    },
+    "#ff6666": {
+        "isCold": 0,
+        "belongs": "pink",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["black"]
+    },
+    "#ff66cc": {
+        "isCold": 0,
+        "belongs": "pink",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["black"]
+    },
+    "#99ff00": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 0,
+        "unfit": ["wheat"],
+        "fit": []
+    },
+    "#330033": {
+        "isCold": 0,
+        "belongs": "purple",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow"]
+    },
+    "#33cc33": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": ["wheat"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#99cc00": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": ["wheat"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#66cc33": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": ["wheat"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#336699": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#3366ff": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#ff6600": {
+        "isCold": 0,
+        "belongs": "orange",
+        "isLight": 1,
+        "unfit": ["yellow"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#cc3300": {
+        "isCold": 0,
+        "belongs": "red",
+        "isLight": 1,
+        "unfit": [],
+        "fit": []
+    },
+    "#66ccff": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#66cc99": {
+        "isCold": 1,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#cc00ff": {
+        "isCold": 1,
+        "belongs": "purple",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow"]
+    },
+    "#333333": {
+        "isCold": 0,
+        "belongs": "black",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["black"]
+    },
+    "#339933": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": ["wheat"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#9933cc": {
+        "isCold": 1,
+        "belongs": "purple",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow"]
+    },
+    "#0099cc": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#6666ff": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#33ff66": {
+        "isCold": 1,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#996666": {
+        "isCold": 0,
+        "belongs": "pink",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["black"]
+    },
+    "#cc6633": {
+        "isCold": 0,
+        "belongs": "orange",
+        "isLight": 1,
+        "unfit": ["yellow"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#993366": {
+        "isCold": 0,
+        "belongs": "purple",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow"]
+    },
+    "#339999": {
+        "isCold": 1,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#006633": {
+        "isCold": 1,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#3399ff": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#cc9933": {
+        "isCold": 0,
+        "belongs": "yellow",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "black"]
+    },
+    "#996699": {
+        "isCold": 0,
+        "belongs": "pink",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["black"]
+    },
+    "#cc00cc": {
+        "isCold": 0,
+        "belongs": "pink",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["black"]
+    },
+    "#99cc33": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": ["wheat"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#993300": {
+        "isCold": 0,
+        "belongs": "brown",
+        "isLight": 1,
+        "unfit": ["yellow", "wheat"],
+        "fit": []
+    },
+    "#cc9999": {
+        "isCold": 0,
+        "belongs": "purple",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow"]
+    },
+    "#666600": {
+        "isCold": 0,
+        "belongs": "brown",
+        "isLight": 1,
+        "unfit": ["yellow", "wheat"],
+        "fit": []
+    },
+    "#cc66ff": {
+        "isCold": 1,
+        "belongs": "pink",
+        "isLight": 1,
+        "unfit": ["cold_white"],
+        "fit": ["black"]
+    },
+    "#660000": {
+        "isCold": 0,
+        "belongs": "red",
+        "isLight": 1,
+        "unfit": [],
+        "fit": []
+    },
+    "#cc6699": {
+        "isCold": 0,
+        "belongs": "pink",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["black"]
+    },
+    "#660099": {
+        "isCold": 1,
+        "belongs": "purple",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow"]
+    },
+    "#3366cc": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#6699cc": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#00cc66": {
+        "isCold": 1,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#66ffcc": {
+        "isCold": 1,
+        "belongs": "green",
+        "isLight": 0,
+        "unfit": ["cold_white"],
+        "fit": []
+    },
+    "#339966": {
+        "isCold": 1,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#999900": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": ["wheat"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#cc3333": {
+        "isCold": 0,
+        "belongs": "red",
+        "isLight": 1,
+        "unfit": [],
+        "fit": []
+    },
+    "#669999": {
+        "isCold": 1,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#003333": {
+        "isCold": 1,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#ffccff": {
+        "isCold": 0,
+        "belongs": "pink",
+        "isLight": 0,
+        "unfit": [],
+        "fit": []
+    },
+    "#ff3399": {
+        "isCold": 0,
+        "belongs": "pink",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["black"]
+    },
+    "#3399cc": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#660066": {
+        "isCold": 0,
+        "belongs": "purple",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow"]
+    },
+    "#cc33ff": {
+        "isCold": 1,
+        "belongs": "purple",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow"]
+    },
+    "#ff00ff": {
+        "isCold": 0,
+        "belongs": "pink",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["black"]
+    },
+    "#6699ff": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#993399": {
+        "isCold": 0,
+        "belongs": "purple",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow"]
+    },
+    "#3300ff": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#006600": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": ["wheat"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#ffffcc": {
+        "isCold": 0,
+        "belongs": "yellow",
+        "isLight": 0,
+        "unfit": ["wheat"],
+        "fit": ["cold_white"]
+    },
+    "#9966ff": {
+        "isCold": 1,
+        "belongs": "purple",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow"]
+    },
+    "#6633cc": {
+        "isCold": 1,
+        "belongs": "purple",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow"]
+    },
+    "#66cccc": {
+        "isCold": 1,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#993333": {
+        "isCold": 0,
+        "belongs": "brown",
+        "isLight": 1,
+        "unfit": ["yellow", "wheat"],
+        "fit": []
+    },
+    "#00cc99": {
+        "isCold": 1,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#009933": {
+        "isCold": 1,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#0033ff": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#ff0066": {
+        "isCold": 0,
+        "belongs": "pink",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["black"]
+    },
+    "#33ccff": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#99ff66": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 0,
+        "unfit": ["wheat"],
+        "fit": []
+    },
+    "#99ffcc": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 0,
+        "unfit": ["black"],
+        "fit": ["cold_white"]
+    },
+    "#009966": {
+        "isCold": 1,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#00cc00": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": ["wheat"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#cc9966": {
+        "isCold": 0,
+        "belongs": "yellow",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "black"]
+    },
+    "#6633ff": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#990066": {
+        "isCold": 0,
+        "belongs": "purple",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow"]
+    },
+    "#ccffcc": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 0,
+        "unfit": ["wheat"],
+        "fit": []
+    },
+    "#ffcc33": {
+        "isCold": 0,
+        "belongs": "yellow",
+        "isLight": 0,
+        "unfit": ["wheat"],
+        "fit": ["cold_white"]
+    },
+    "#333300": {
+        "isCold": 0,
+        "belongs": "brown",
+        "isLight": 1,
+        "unfit": ["yellow", "wheat"],
+        "fit": []
+    },
+    "#cc99ff": {
+        "isCold": 1,
+        "belongs": "purple",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow"]
+    },
+    "#cc99cc": {
+        "isCold": 0,
+        "belongs": "purple",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow"]
+    },
+    "#66ff00": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": ["wheat"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#99ccff": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 0,
+        "unfit": ["black"],
+        "fit": ["cold_white"]
+    },
+    "#999933": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": ["wheat"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#003399": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#663366": {
+        "isCold": 0,
+        "belongs": "purple",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow"]
+    },
+    "#ffff66": {
+        "isCold": 0,
+        "belongs": "yellow",
+        "isLight": 0,
+        "unfit": ["wheat"],
+        "fit": ["cold_white"]
+    },
+    "#ccffff": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 0,
+        "unfit": ["black"],
+        "fit": ["cold_white"]
+    },
+    "#669900": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": ["wheat"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#ffcccc": {
+        "isCold": 0,
+        "belongs": "pink",
+        "isLight": 0,
+        "unfit": [],
+        "fit": []
+    },
+    "#ff3333": {
+        "isCold": 0,
+        "belongs": "red",
+        "isLight": 1,
+        "unfit": [],
+        "fit": []
+    },
+    "#0033cc": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#336666": {
+        "isCold": 1,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#ffff00": {
+        "isCold": 0,
+        "belongs": "yellow",
+        "isLight": 0,
+        "unfit": ["wheat"],
+        "fit": ["cold_white"]
+    },
+    "#cc6666": {
+        "isCold": 0,
+        "belongs": "pink",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["black"]
+    },
+    "#33ff33": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": ["wheat"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#cccc99": {
+        "isCold": 0,
+        "belongs": "gray",
+        "isLight": 0,
+        "unfit": [],
+        "fit": ["wheat"]
+    },
+    "#66cc66": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": ["wheat"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#666666": {
+        "isCold": 0,
+        "belongs": "gray",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["wheat"]
+    },
+    "#ff3366": {
+        "isCold": 0,
+        "belongs": "pink",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["black"]
+    },
+    "#33cccc": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#33cc00": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": ["wheat"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#99cccc": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#996600": {
+        "isCold": 0,
+        "belongs": "brown",
+        "isLight": 1,
+        "unfit": ["yellow", "wheat"],
+        "fit": []
+    },
+    "#ff33ff": {
+        "isCold": 0,
+        "belongs": "pink",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["black"]
+    },
+    "#ff66ff": {
+        "isCold": 0,
+        "belongs": "pink",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["black"]
+    },
+    "#33ffff": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 0,
+        "unfit": ["black"],
+        "fit": ["cold_white"]
+    },
+    "#339900": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": ["wheat"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#ff0099": {
+        "isCold": 0,
+        "belongs": "pink",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["black"]
+    },
+    "#cccc66": {
+        "isCold": 0,
+        "belongs": "yellow",
+        "isLight": 0,
+        "unfit": ["wheat"],
+        "fit": ["cold_white"]
+    },
+    "#9933ff": {
+        "isCold": 1,
+        "belongs": "purple",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow"]
+    },
+    "#ff9966": {
+        "isCold": 0,
+        "belongs": "orange",
+        "isLight": 1,
+        "unfit": ["yellow"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#ff00cc": {
+        "isCold": 0,
+        "belongs": "pink",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["black"]
+    },
+    "#9900cc": {
+        "isCold": 1,
+        "belongs": "purple",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow"]
+    },
+    "#cc6600": {
+        "isCold": 0,
+        "belongs": "orange",
+        "isLight": 1,
+        "unfit": ["yellow"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#66ffff": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 0,
+        "unfit": ["black"],
+        "fit": ["cold_white"]
+    },
+    "#cc0099": {
+        "isCold": 0,
+        "belongs": "pink",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["black"]
+    },
+    "#ff9900": {
+        "isCold": 0,
+        "belongs": "orange",
+        "isLight": 1,
+        "unfit": ["yellow"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#0066cc": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#ff9999": {
+        "isCold": 0,
+        "belongs": "pink",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["black"]
+    },
+    "#00ffcc": {
+        "isCold": 1,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#ccccff": {
+        "isCold": 1,
+        "belongs": "purple",
+        "isLight": 0,
+        "unfit": ["cold_white", "yellow"],
+        "fit": []
+    },
+    "#0066ff": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#ffff33": {
+        "isCold": 0,
+        "belongs": "yellow",
+        "isLight": 0,
+        "unfit": ["wheat"],
+        "fit": ["cold_white"]
+    },
+    "#6600ff": {
+        "isCold": 1,
+        "belongs": "purple",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow"]
+    },
+    "#ccff33": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 0,
+        "unfit": ["wheat"],
+        "fit": []
+    },
+    "#9999cc": {
+        "isCold": 1,
+        "belongs": "blue",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "yellow", "wheat"]
+    },
+    "#ccff66": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 0,
+        "unfit": ["wheat"],
+        "fit": []
+    },
+    "#ff0000": {
+        "isCold": 0,
+        "belongs": "red",
+        "isLight": 1,
+        "unfit": [],
+        "fit": []
+    },
+    "#660033": {
+        "isCold": 0,
+        "belongs": "red",
+        "isLight": 1,
+        "unfit": [],
+        "fit": []
+    },
+    "#cccccc": {
+        "isCold": 0,
+        "belongs": "gray",
+        "isLight": 0,
+        "unfit": [],
+        "fit": ["wheat"]
+    },
+    "#ff33cc": {
+        "isCold": 0,
+        "belongs": "pink",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["black"]
+    },
+    "#cc66cc": {
+        "isCold": 0,
+        "belongs": "pink",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["black"]
+    },
+    "#cccc33": {
+        "isCold": 0,
+        "belongs": "yellow",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "black"]
+    },
+    "#663300": {
+        "isCold": 0,
+        "belongs": "brown",
+        "isLight": 1,
+        "unfit": ["yellow", "wheat"],
+        "fit": []
+    },
+    "#330000": {
+        "isCold": 0,
+        "belongs": "brown",
+        "isLight": 1,
+        "unfit": ["yellow", "wheat"],
+        "fit": []
+    },
+    "#00ff33": {
+        "isCold": 1,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#cc9900": {
+        "isCold": 0,
+        "belongs": "yellow",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white", "black"]
+    },
+    "#999999": {
+        "isCold": 0,
+        "belongs": "gray",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["wheat"]
+    },
+    "#00cccc": {
+        "isCold": 1,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": [],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#99cc99": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": ["wheat"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#336600": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": ["wheat"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#99ff33": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 0,
+        "unfit": ["wheat"],
+        "fit": []
+    },
+    "#669966": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": ["wheat"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#ff9933": {
+        "isCold": 0,
+        "belongs": "orange",
+        "isLight": 1,
+        "unfit": ["yellow"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#003300": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": ["wheat"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#ffcc99": {
+        "isCold": 0,
+        "belongs": "yellow",
+        "isLight": 0,
+        "unfit": ["wheat"],
+        "fit": ["cold_white"]
+    },
+    "#66ff33": {
+        "isCold": 0,
+        "belongs": "green",
+        "isLight": 1,
+        "unfit": ["wheat"],
+        "fit": ["red_white", "cold_white"]
+    },
+    "#ff99ff": {
+        "isCold": 0,
+        "belongs": "pink",
+        "isLight": 0,
+        "unfit": [],
+        "fit": []
+    }
+}
